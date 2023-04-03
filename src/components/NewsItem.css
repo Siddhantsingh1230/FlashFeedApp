@@ -1,0 +1,7 @@
+.Card{
+  margin-top: 40px;
+}
+.obj{
+  height: 300px;
+  object-fit:cover ;
+}
